@@ -2,8 +2,8 @@
 ## ===========================================设置各参数（不需要的可以删掉或者前面加# ）=============================================
 
 # 设置ARGO参数 (不设置默认使用临时隧道，如果设置把前面的#去掉)
-# export TOK='xxxxx'
-# export ARGO_DOMAIN='xxxxx'
+# export TOK='eyJhIjoiMzk0ZWIyM2M4Y2RjMWYyMTZkNDAxZjY3MWEyN2FlNTQiLCJ0IjoiODVlZTU3ZDctYTMwYi00MTQzLWE0OGMtNjNhNzM1YTk2MGJlIiwicyI6IlpUY3haVFZqT0RrdE5Ua3lNUzAwWldGaExUZ3pPVE10T1dGbU5tWmpaV00yTlRoayJ9'
+# export ARGO_DOMAIN='render.zylf.eu.org'
 
 #设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
 export NEZHA_SERVER='xxxx'
